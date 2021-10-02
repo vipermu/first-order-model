@@ -1,3 +1,11 @@
 /.vscode
 __pycache__
 /venv
+
+/vid*
+*.mp4
+*.jpeg
+*.png
+*.jpg
+*.zip
+*.tar
